@@ -8,7 +8,6 @@ Olá, eu sou o Cauã 👋
 * HTML
 * CSS
 * JavaScript
-* Cisco Packet Tracer
 
 📚 Atualmente estudando
 
