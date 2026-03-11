@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá, eu sou o Cauã 👋
 
-<!--
-**cauagm/cauagm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia da Informação
+💻 Interessado em programação e tecnologia
 
-Here are some ideas to get you started:
+🚀 Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* Cisco Packet Tracer
+
+📚 Atualmente estudando
+
+* Desenvolvimento Web
+
+🎯 Objetivo
+
+Conseguir minha primeira oportunidade na área de tecnologia e continuar evoluindo como desenvolvedor.
